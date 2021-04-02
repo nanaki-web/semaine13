@@ -1,0 +1,85 @@
+waz_annonces
+	*Développeur
+		->tout les droits(créer des tables,supprimer des tables , modifier supprimer ajouter dans la bdd ) 
+	
+	*Administrateur
+		->ajouter ,modifier ,supprimer la bdd 
+
+	*Internaute
+		->juste lire
+
+waz_biens
+	*Développeur
+		->Tout les droits 
+	*Administrateur
+		->ajouter,modifier,supprimer la bdd
+	*Internaute
+		->juste lire
+
+waz_commentaire
+	*Développeur
+		->Tout les droits 
+	*Administrateur
+		->supprimer la bdd
+	*Internaute
+		->lire et ajouter 
+
+waz_composer
+	*Développeur
+		->tout les droits 
+	*Administrateur
+		->aucun droit
+	*Internaute
+		->aucun droit
+
+waz_contacter
+	*Développeur
+		->tout les droits 
+	*Adminstrateur
+		->lire et supprimer 
+	*Internautes
+		->ajouter
+
+waz_employes
+	*Développeur
+		->tout les droits 
+	*Administrateur
+		->lire ,modifier ,supprimer
+	*Internautes
+		->aucun
+
+waz_internautes
+	*Développeur 
+		->tout les droits
+	*Administrateur
+		->lire ,modifier,supprimer
+	*Internaute
+		->lire (profile)
+
+waz_negocier
+	*Développeur
+		->tout les droits 
+	*Administrateur
+		->lire,modifier et supprimer
+	*Internaute
+		->lire 
+
+waz_option
+	*Développeur
+		->tout les droits
+	*Administrateur
+		->lire, modifier,ajouter,supprimer
+	*Internaute
+		->lire
+
+waz_photo
+	*Développeur
+		->tout les droits 
+	*Administrateur
+		->lire,modifier,supprimer,supprimer
+	*Internaute 
+		->lire
+
+
+
+
